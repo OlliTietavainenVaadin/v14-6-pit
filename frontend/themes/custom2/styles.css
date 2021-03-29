@@ -1,0 +1,5 @@
+/* custom2 */
+html, :host {
+    --lumo-primary-color: blue;
+    --lumo-primary-text-color: blue;
+}

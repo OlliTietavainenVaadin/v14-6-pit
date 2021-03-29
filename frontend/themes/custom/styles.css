@@ -1,0 +1,5 @@
+/* custom */
+html, :host {
+    --lumo-primary-color: red;
+    --lumo-primary-text-color: red;
+}
